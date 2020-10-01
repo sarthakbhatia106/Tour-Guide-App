@@ -34,7 +34,7 @@ public class restaurantFragment extends Fragment {
         items.add(new item("Sorrento", "Italian cuisine is that of the best ingredients prepared in an unpretentious manner; bold and satisfying without being too heavy","geo:0,0?q=Ground Level ShangriLa's Hotel, Ashoka Road, Connaught Place, New Delhi, Delhi 110001"));
         items.add(new item("Imly","Authentic street food with some quirky presentation from all across India under one roof, in a pleasant ambiance.","geo:0,0?q=Imly,F-20, T Sohanlal Marg, Near Hog Market, Rajendra Place, New Delhi, Delhi 110008"));
         items.add(new item("Ama Cafe","Known for its american breakfast and Cheese Cakes","geo:0,0?q=House No. 6, First Floor, Majnu Ka Tila, New Aruna Nagar, Delhi 110054"));
-        items.add(new item("Wood Box Cafe","Rustic, wooden design cafe popular with students, serving Chinese, Italian & fast food.","geo:0,0?q=2521, Huson Lane, Near Vijay Nagar, New Delhi, Delhi 110009"));
+        items.add(new item("Wood Box Cafe","Rustic, wooden design cafe popular with students, serving Chinese, Italian & fast food.","geo:0,0?q=woodbox cafe, Huson Lane, Near Vijay Nagar, New Delhi, Delhi 110009"));
         items.add(new item("Diggin","One of the most beautiful looking cafe situated in Anand Lok, Delhi","geo:0,0?q=diggin,Anand Lok Shopping Center, Anand Lok, New Delhi, Delhi 110049"));
         items.add(new item("Karnataka Food Center","Bustling casual eatery with community tables offering traditional vegetarian South Indian cuisine.","geo:0,0?q=Karnataka Food Center, Sector 12, Rama Krishna Puram, New Delhi, Delhi 110022"));
 
