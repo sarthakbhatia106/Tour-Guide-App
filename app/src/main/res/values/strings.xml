@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tour guide app</string>
+    <string name="monuments">Monuments</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="markets">Markets</string>
+    <string name="headingText">This app will show you places to visit in Delhi,India</string>
+    <string name="line">Click to go to map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

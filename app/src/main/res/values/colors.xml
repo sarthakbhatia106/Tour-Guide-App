@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8349cb</color>
+    <color name="colorPrimaryDark">#6c25c1</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#303030</color>
+    <color name="monuments">#6c25c1</color>
+    <color name="restaurants">#6c25c1</color>
+    <color name="markets">#6c25c1</color>
+</resources>
